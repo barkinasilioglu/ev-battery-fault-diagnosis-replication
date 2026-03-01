@@ -2,10 +2,11 @@
 
 ## Reference Paper
 
-R. Xiong et al.,  
-“Research progress, challenges and prospects of fault diagnosis on battery system of electric vehicles,”  
-Applied Energy, vol. 279, 115855, 2020.  
-DOI: https://doi.org/10.1016/j.apenergy.2020.115855
+
+S. Yang, Y. Wang, and X. Zhang,  
+“Data-driven lithium-ion battery fault diagnosis based on machine learning,”  
+Applied Energy, 2020.  
+
 
 
 ---
