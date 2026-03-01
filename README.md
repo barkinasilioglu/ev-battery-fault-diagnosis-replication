@@ -2,11 +2,11 @@
 
 ## Reference Paper
 
-Yang et al.,  
-“Data-driven lithium-ion battery fault diagnosis based on machine learning,”  
-Applied Energy, 2020.  
+R. Xiong et al.,  
+“Research progress, challenges and prospects of fault diagnosis on battery system of electric vehicles,”  
+Applied Energy, vol. 279, 115855, 2020.  
+DOI: https://doi.org/10.1016/j.apenergy.2020.115855
 
-Paper link: https://doi.org/10.1016/j.etran.2024.100374
 
 ---
 
@@ -78,3 +78,7 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+Run the script:
+
+```bash
+python main.py
